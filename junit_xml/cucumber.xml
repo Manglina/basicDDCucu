@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="374.544525">
+<testcase classname="FB login feature" name="user validated login with valid cridential" time="122.035304">
+<system-out><![CDATA[Given user launch browser...................................................passed
+And user enter url..........................................................passed
+When user enter "mangmanglina" and "lingggg"................................passed
+Then user click login button................................................passed
+And user valid result successfully..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="FB login feature" name="user validated login with valid cridential 2" time="59.888538">
+<system-out><![CDATA[Given user launch browser...................................................passed
+And user enter url..........................................................passed
+When user enter "linaglinagggg" and "linaglina".............................passed
+Then user click login button................................................passed
+And user valid result successfully..........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="FB login feature" name="user validated login with valid cridential 3" time="192.620683">
+<system-out><![CDATA[Given user launch browser...................................................passed
+And user enter url..........................................................passed
+When user enter "herleyquinnnn" and "herleyquinn123"........................passed
+Then user click login button................................................passed
+And user valid result successfully..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

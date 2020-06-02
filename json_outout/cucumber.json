@@ -1,0 +1,253 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 12,
+        "name": "user validated login with valid cridential",
+        "description": "",
+        "id": "fb-login-feature;user-validated-login-with-valid-cridential;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 64711079996,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user launch browser",
+            "match": {
+              "location": "StepDefinition.user_launch_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 23650436661,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter url",
+            "match": {
+              "location": "StepDefinition.user_enter_url()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2945768029,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"mangmanglina\" and \"lingggg\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "mangmanglina",
+                  "offset": 12
+                },
+                {
+                  "val": "lingggg",
+                  "offset": 31
+                }
+              ],
+              "location": "StepDefinition.user_enter_userName_and_PassWord(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 13651157017,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user click login button",
+            "match": {
+              "location": "StepDefinition.user_click_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 17070276267,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user valid result successfully",
+            "match": {
+              "location": "StepDefinition.user_valid_result_successfully()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 13,
+        "name": "user validated login with valid cridential",
+        "description": "",
+        "id": "fb-login-feature;user-validated-login-with-valid-cridential;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 11060978101,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user launch browser",
+            "match": {
+              "location": "StepDefinition.user_launch_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 25872323466,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter url",
+            "match": {
+              "location": "StepDefinition.user_enter_url()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 7913407715,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"linaglinagggg\" and \"linaglina\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "linaglinagggg",
+                  "offset": 12
+                },
+                {
+                  "val": "linaglina",
+                  "offset": 32
+                }
+              ],
+              "location": "StepDefinition.user_enter_userName_and_PassWord(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3756397926,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user click login button",
+            "match": {
+              "location": "StepDefinition.user_click_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 11284116977,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user valid result successfully",
+            "match": {
+              "location": "StepDefinition.user_valid_result_successfully()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "line": 14,
+        "name": "user validated login with valid cridential",
+        "description": "",
+        "id": "fb-login-feature;user-validated-login-with-valid-cridential;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 4092766138,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user launch browser",
+            "match": {
+              "location": "StepDefinition.user_launch_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 16206286256,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user enter url",
+            "match": {
+              "location": "StepDefinition.user_enter_url()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1925783766,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter \"herleyquinnnn\" and \"herleyquinn123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "herleyquinnnn",
+                  "offset": 12
+                },
+                {
+                  "val": "herleyquinn123",
+                  "offset": 32
+                }
+              ],
+              "location": "StepDefinition.user_enter_userName_and_PassWord(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4240421560,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user click login button",
+            "match": {
+              "location": "StepDefinition.user_click_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 166154111749,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user valid result successfully",
+            "match": {
+              "location": "StepDefinition.user_valid_result_successfully()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "FB login feature",
+    "description": "",
+    "id": "fb-login-feature",
+    "keyword": "Feature",
+    "uri": "src/test/resource/features/DDlogin.feature",
+    "tags": []
+  }
+]
